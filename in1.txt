@@ -1,25 +1,4 @@
-A mathematical model is a description of a system using mathematical concepts and language. The process of developing a mathematical model is termed mathematical modeling. Mathematical models are used in the natural sciences (such as physics, biology, Earth science, meteorology) and engineering disciplines (such as computer science, artificial intelligence), as well as in the social sciences (such as economics, psychology, sociology, political science). Physicists, engineers, statisticians, operations research analysts, and economists use mathematical models most extensively[citation needed]. A model may help to explain a system and to study the effects of different components, and to make predictions about behaviour.
-
-Contents  [hide] 
-1	Elements of a mathematical model
-2	Classifications
-3	Significance in the natural sciences
-4	Some applications
-5	Building blocks
-6	A priori information
-6.1	Subjective information
-7	Complexity
-8	Training
-9	Model evaluation
-9.1	Fit to empirical data
-9.2	Scope of the model
-9.3	Philosophical considerations
-10	Examples
-11	See also
-12	References
-13	Further reading
-13.1	Books
-13.2	Specific applications
+A mathematical model is a description of a system using mathematical concepts and language. The process of developing a mathematical model is termed mathematical modeling. Mathematical models are used in the natural sciences (such as physics, biology, Earth science, meteorology) and engineering disciplines (such as computer science, artificial intelligence), as well as in the social scien
 14	External links
 Elements of a mathematical model[edit]
 Mathematical models can take many forms, including dynamical systems, statistical models, differential equations, or game theoretic models. These and other types of models can overlap, with a given model involving a variety of abstract structures. In general, mathematical models may include logical models. In many cases, the quality of a scientific field depends on how well the mathematical models developed on the theoretical side agree with results of repeatable experiments. Lack of agreement between theoretical mathematical models and experimental measurements often leads to important advances as better theories are developed.
